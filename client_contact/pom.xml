@@ -8,10 +8,10 @@
 		<version>3.2.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.spring_microservices</groupId>
-	<artifactId>contacts</artifactId>
+	<groupId>com.microservices</groupId>
+	<artifactId>client_contact</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>contacts</name>
+	<name>client_contact</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
